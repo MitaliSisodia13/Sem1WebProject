@@ -96,3 +96,18 @@ html *{
   box-shadow: 10px 10px 30px rgb(0, 0, 0);
 }
 
+.bghead_home{
+  background-image: url("../images/HY1.png");  
+  background-size: cover;
+  height: 600px; 
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+}
+
+.proj_side_home{
+  align-items: center;
+}
+
